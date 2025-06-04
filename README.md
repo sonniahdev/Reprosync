@@ -75,22 +75,6 @@ HerHealth Predict addresses two of the most pressing gynecological challenges �
 
 ## 📊 Impact Metrics
 
-### Clinical Outcomes
-- ⬆ 35% in early cervical cancer detection  
-- ⬇ 40% in unnecessary ovarian surgeries  
-- ⬇ 50% in lost-to-follow-up cases  
-- ⬆ 30% screening adherence
-
-### Operational Efficiency
-- ⬇ 25% administrative burden  
-- ⬆ 20% clinic throughput  
-- ⬇ 15% unnecessary specialist referrals  
-- ⬆ 45% in patient engagement scores
-
-### Economic Value
-- ~$3.2B in potential annual savings  
-- Fewer emergency interventions & delayed treatments  
-- Improved clinical workforce productivity
 
 ---
 
