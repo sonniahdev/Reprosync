@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+*.pkl
+*.db
+*.log
+*.ipynb
+*.csv
+venv/
+*.pkl
+*.csv
+*.joblib
+*.db
+__pycache__/
+venv/
