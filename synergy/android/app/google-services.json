@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704443417963",
+    "project_id": "reprosync-b8b00",
+    "storage_bucket": "reprosync-b8b00.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704443417963:android:af76847919550be2d1382e",
+        "android_client_info": {
+          "package_name": "com.example.synergy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiEPFsEsjSEiZ3PJ7dJSAETvMuU74IIQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
