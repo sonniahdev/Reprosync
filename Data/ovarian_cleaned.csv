@@ -1,0 +1,101 @@
+Patient ID,Age,Menopause Status,Cyst Size cm,Cyst Growth Rate cm/month,CA 125 Level,Ultrasound Features,Reported Symptoms,Recommended Management,Date of Exam,Region,Pelvic Pain,Bloating,Nausea,Fatigue,Irregular Periods
+OC-1000,52,0,3.2,-0.34,19,2,"Pelvic pain, Nausea, Bloating",1,2025-05-23,Eldoret,1,1,1,0,0
+OC-1001,62,0,7.9,0.84,111,2,Bloating,0,2025-04-27,Loitoktok,0,1,0,0,0
+OC-1002,59,0,2.2,0.5,123,1,"Pelvic pain, Irregular periods, Bloating",2,2025-01-05,Eldoret,1,1,0,0,1
+OC-1003,64,0,5.5,1.11,116,4,"Nausea, Irregular periods",0,2025-03-11,Loitoktok,0,0,1,0,1
+OC-1004,43,0,4.0,0.9,98,1,"Irregular periods, Bloating, Nausea",3,2025-02-17,Eldoret,0,1,1,0,1
+OC-1005,34,1,2.3,-0.27,144,0,"Fatigue, Bloating, Irregular periods",3,2024-08-06,Mombasa,0,1,0,1,1
+OC-1006,65,0,2.9,1.42,110,0,"Bloating, Pelvic pain, Irregular periods",3,2025-03-24,Loitoktok,1,1,0,0,1
+OC-1007,17,1,7.7,-0.15,37,3,Irregular periods,3,2024-06-19,Nairobi,0,0,0,0,1
+OC-1008,65,0,4.1,-0.01,37,4,"Fatigue, Nausea, Pelvic pain",1,2025-03-15,Nairobi,1,0,1,1,0
+OC-1009,35,1,2.4,0.53,18,2,"Bloating, Irregular periods",2,2025-03-01,Nairobi,0,1,0,0,1
+OC-1010,40,1,8.1,0.17,113,2,"Fatigue, Pelvic pain, Nausea",0,2024-09-22,Kisumu,1,0,1,1,0
+OC-1011,42,0,6.7,-0.41,102,1,"Pelvic pain, Bloating, Fatigue",0,2024-12-13,Mombasa,1,1,0,1,0
+OC-1012,22,1,5.9,0.99,141,2,"Bloating, Nausea, Irregular periods",0,2025-06-04,Kisumu,0,1,1,0,1
+OC-1013,48,1,10.0,1.14,93,0,Bloating,0,2024-06-30,Loitoktok,0,1,0,0,0
+OC-1014,41,0,9.0,-0.1,25,2,"Pelvic pain, Bloating, Fatigue",2,2025-05-26,Nairobi,1,1,0,1,0
+OC-1015,38,1,8.0,-0.44,92,4,"Irregular periods, Fatigue, Nausea",1,2024-11-09,Kisumu,0,0,1,1,1
+OC-1016,44,1,7.2,-0.25,61,2,Irregular periods,2,2024-09-16,Eldoret,0,0,0,0,1
+OC-1017,18,1,4.6,-0.4,120,2,"Nausea, Fatigue, Pelvic pain",0,2024-07-25,Kisumu,1,0,1,1,0
+OC-1018,36,1,2.7,1.09,140,0,"Irregular periods, Fatigue, Bloating",0,2024-08-09,Nairobi,0,1,0,1,1
+OC-1019,21,1,6.3,0.35,34,0,"Nausea, Irregular periods, Bloating",0,2024-12-15,Nairobi,0,1,1,0,1
+OC-1020,45,0,9.9,0.46,133,4,"Bloating, Nausea",3,2024-07-24,Loitoktok,0,1,1,0,0
+OC-1021,34,1,4.2,1.27,49,4,Bloating,0,2025-05-27,Eldoret,0,1,0,0,0
+OC-1022,42,1,5.9,0.93,132,4,"Bloating, Fatigue",3,2025-06-10,Loitoktok,0,1,0,1,0
+OC-1023,41,1,6.7,1.15,6,2,"Bloating, Pelvic pain, Irregular periods",0,2024-08-05,Nairobi,1,1,0,0,1
+OC-1024,22,1,6.1,0.72,54,4,"Pelvic pain, Irregular periods",3,2024-06-25,Nairobi,1,0,0,0,1
+OC-1025,35,1,2.4,0.15,111,0,"Irregular periods, Nausea",2,2025-05-18,Eldoret,0,0,1,0,1
+OC-1026,61,0,4.8,1.39,122,3,"Bloating, Nausea, Fatigue",0,2024-10-26,Mombasa,0,1,1,1,0
+OC-1027,55,0,7.5,-0.13,113,2,"Pelvic pain, Nausea",1,2025-01-30,Mombasa,1,0,1,0,0
+OC-1028,46,0,9.5,1.38,111,4,"Pelvic pain, Nausea",1,2024-12-31,Nairobi,1,0,1,0,0
+OC-1029,47,0,4.1,-0.12,56,4,"Irregular periods, Fatigue",3,2025-04-07,Loitoktok,0,0,0,1,1
+OC-1030,49,1,9.3,0.15,127,2,Nausea,2,2024-10-28,Loitoktok,0,0,1,0,0
+OC-1031,25,1,9.0,0.21,22,2,"Bloating, Pelvic pain",1,2024-08-07,Kisumu,1,1,0,0,0
+OC-1032,57,0,6.7,-0.25,28,0,Irregular periods,1,2024-08-26,Loitoktok,0,0,0,0,1
+OC-1033,27,1,8.5,-0.33,109,3,Pelvic pain,1,2024-08-28,Loitoktok,1,0,0,0,0
+OC-1034,24,1,3.4,1.0,133,1,"Irregular periods, Fatigue",3,2025-03-17,Nairobi,0,0,0,1,1
+OC-1035,16,1,9.9,-0.41,96,2,"Bloating, Fatigue",0,2024-08-26,Nairobi,0,1,0,1,0
+OC-1036,58,0,8.4,0.13,117,1,"Fatigue, Nausea, Bloating",1,2024-08-03,Eldoret,0,1,1,1,0
+OC-1037,44,0,6.8,0.72,92,0,Fatigue,1,2025-06-05,Mombasa,0,0,0,1,0
+OC-1038,62,0,2.2,-0.38,21,4,"Nausea, Bloating, Irregular periods",3,2024-12-06,Loitoktok,0,1,1,0,1
+OC-1039,64,0,9.9,0.02,91,1,"Nausea, Bloating, Irregular periods",2,2025-01-06,Nairobi,0,1,1,0,1
+OC-1040,65,0,6.1,0.72,80,1,"Fatigue, Pelvic pain",0,2025-05-13,Eldoret,1,0,0,1,0
+OC-1041,50,1,8.0,0.97,50,0,"Irregular periods, Nausea",1,2025-02-14,Loitoktok,0,0,1,0,1
+OC-1042,45,0,5.5,0.58,7,0,"Bloating, Pelvic pain",1,2024-06-29,Mombasa,1,1,0,0,0
+OC-1043,64,0,8.0,-0.33,127,0,"Pelvic pain, Nausea",0,2024-08-11,Mombasa,1,0,1,0,0
+OC-1044,58,0,4.2,0.95,76,3,"Nausea, Irregular periods",3,2024-08-13,Loitoktok,0,0,1,0,1
+OC-1045,17,1,6.2,1.38,120,4,"Fatigue, Nausea, Bloating",2,2024-11-19,Kisumu,0,1,1,1,0
+OC-1046,63,0,7.8,0.55,80,0,"Nausea, Bloating",3,2024-10-22,Loitoktok,0,1,1,0,0
+OC-1047,41,0,5.4,0.19,37,1,Fatigue,2,2024-09-22,Mombasa,0,0,0,1,0
+OC-1048,65,0,2.7,0.26,29,0,"Fatigue, Pelvic pain, Irregular periods",3,2025-03-16,Nairobi,1,0,0,1,1
+OC-1049,56,0,7.2,-0.13,25,1,Pelvic pain,3,2025-03-27,Kisumu,1,0,0,0,0
+OC-1050,26,1,10.0,0.45,109,3,Nausea,3,2024-10-02,Loitoktok,0,0,1,0,0
+OC-1051,50,0,5.8,0.35,83,2,"Bloating, Fatigue, Irregular periods",2,2024-09-12,Loitoktok,0,1,0,1,1
+OC-1052,61,0,5.4,0.24,83,3,"Bloating, Irregular periods, Fatigue",0,2024-11-29,Loitoktok,0,1,0,1,1
+OC-1053,22,1,3.7,0.95,68,1,Pelvic pain,0,2025-04-09,Kisumu,1,0,0,0,0
+OC-1054,17,1,3.0,-0.04,39,1,"Nausea, Pelvic pain, Fatigue",0,2024-09-30,Mombasa,1,0,1,1,0
+OC-1055,55,0,4.5,0.72,40,4,Bloating,1,2025-03-13,Nairobi,0,1,0,0,0
+OC-1056,27,1,5.0,0.24,117,3,"Pelvic pain, Bloating, Nausea",2,2024-10-16,Eldoret,1,1,1,0,0
+OC-1057,19,1,3.3,1.48,55,1,"Bloating, Pelvic pain, Nausea",0,2024-11-14,Eldoret,1,1,1,0,0
+OC-1058,55,0,7.5,-0.11,12,1,Bloating,1,2025-02-13,Loitoktok,0,1,0,0,0
+OC-1059,55,0,5.5,0.43,26,1,Bloating,2,2025-04-01,Nairobi,0,1,0,0,0
+OC-1060,55,0,7.4,-0.18,113,1,Fatigue,3,2025-01-25,Kisumu,0,0,0,1,0
+OC-1061,47,1,6.8,0.96,146,2,"Fatigue, Irregular periods",1,2024-11-26,Kisumu,0,0,0,1,1
+OC-1062,24,1,9.5,-0.04,80,2,Bloating,1,2024-12-11,Nairobi,0,1,0,0,0
+OC-1063,15,1,5.7,1.12,59,3,Nausea,1,2024-08-08,Nairobi,0,0,1,0,0
+OC-1064,24,1,5.6,0.56,64,2,Pelvic pain,2,2024-06-27,Kisumu,1,0,0,0,0
+OC-1065,16,1,5.8,1.3,109,1,"Irregular periods, Pelvic pain",2,2025-02-03,Mombasa,1,0,0,0,1
+OC-1066,23,1,6.4,0.1,109,3,Pelvic pain,1,2025-06-10,Eldoret,1,0,0,0,0
+OC-1067,47,1,5.2,0.5,63,3,"Irregular periods, Fatigue, Bloating",1,2025-04-11,Loitoktok,0,1,0,1,1
+OC-1068,51,0,6.9,-0.34,57,3,Bloating,0,2024-11-26,Eldoret,0,1,0,0,0
+OC-1069,16,1,9.8,0.03,29,2,"Irregular periods, Fatigue, Bloating",2,2024-12-07,Loitoktok,0,1,0,1,1
+OC-1070,44,0,3.5,0.32,38,1,"Nausea, Pelvic pain",1,2024-07-12,Mombasa,1,0,1,0,0
+OC-1071,51,0,2.7,1.37,54,1,"Irregular periods, Pelvic pain, Bloating",2,2024-07-15,Kisumu,1,1,0,0,1
+OC-1072,28,1,2.2,1.11,91,3,Pelvic pain,0,2025-04-26,Kisumu,1,0,0,0,0
+OC-1073,29,1,6.9,-0.32,7,4,"Fatigue, Bloating, Irregular periods",0,2025-03-26,Nairobi,0,1,0,1,1
+OC-1074,27,1,4.5,1.05,73,2,Nausea,3,2025-01-23,Mombasa,0,0,1,0,0
+OC-1075,17,1,5.6,0.65,36,1,"Fatigue, Irregular periods, Pelvic pain",3,2024-12-20,Kisumu,1,0,0,1,1
+OC-1076,17,1,6.3,-0.27,16,4,"Nausea, Fatigue, Pelvic pain",0,2025-03-25,Mombasa,1,0,1,1,0
+OC-1077,32,1,3.1,1.04,5,1,Irregular periods,3,2024-08-23,Eldoret,0,0,0,0,1
+OC-1078,15,1,9.7,-0.46,121,1,Nausea,3,2025-06-16,Eldoret,0,0,1,0,0
+OC-1079,62,0,8.2,1.15,37,0,Bloating,1,2025-05-14,Nairobi,0,1,0,0,0
+OC-1080,30,1,2.0,0.24,25,1,Irregular periods,2,2024-10-15,Kisumu,0,0,0,0,1
+OC-1081,54,0,6.0,-0.5,122,0,"Fatigue, Nausea",0,2024-10-23,Kisumu,0,0,1,1,0
+OC-1082,36,1,8.6,1.22,119,3,"Bloating, Nausea",1,2025-04-01,Loitoktok,0,1,1,0,0
+OC-1083,30,1,2.0,-0.43,36,1,"Nausea, Bloating",3,2025-03-03,Kisumu,0,1,1,0,0
+OC-1084,57,0,4.6,0.3,34,2,"Irregular periods, Fatigue, Pelvic pain",0,2024-10-31,Eldoret,1,0,0,1,1
+OC-1085,46,1,2.5,-0.39,137,4,Irregular periods,0,2024-10-14,Kisumu,0,0,0,0,1
+OC-1086,25,1,2.0,-0.47,29,3,Bloating,0,2024-11-21,Nairobi,0,1,0,0,0
+OC-1087,52,0,7.0,1.32,81,1,Irregular periods,2,2024-10-29,Eldoret,0,0,0,0,1
+OC-1088,32,1,4.1,1.05,108,3,"Fatigue, Pelvic pain, Nausea",1,2024-08-31,Mombasa,1,0,1,1,0
+OC-1089,30,1,3.9,0.0,150,2,"Bloating, Pelvic pain, Nausea",1,2024-08-15,Kisumu,1,1,1,0,0
+OC-1090,58,0,9.8,0.77,65,2,"Fatigue, Pelvic pain",2,2025-05-10,Loitoktok,1,0,0,1,0
+OC-1091,46,1,6.1,1.44,30,1,"Bloating, Irregular periods, Fatigue",3,2024-08-02,Loitoktok,0,1,0,1,1
+OC-1092,61,0,7.9,0.2,145,0,"Nausea, Pelvic pain, Bloating",3,2025-05-30,Nairobi,1,1,1,0,0
+OC-1093,32,1,8.8,0.95,125,0,"Pelvic pain, Bloating",2,2024-08-03,Nairobi,1,1,0,0,0
+OC-1094,25,1,6.9,0.42,39,4,"Nausea, Pelvic pain, Bloating",3,2024-08-28,Loitoktok,1,1,1,0,0
+OC-1095,24,1,7.1,1.23,46,3,"Pelvic pain, Bloating, Nausea",0,2024-09-27,Nairobi,1,1,1,0,0
+OC-1096,36,1,4.0,-0.07,88,0,Nausea,3,2024-07-10,Nairobi,0,0,1,0,0
+OC-1097,21,1,3.8,-0.43,124,4,Irregular periods,1,2025-06-14,Eldoret,0,0,0,0,1
+OC-1098,40,1,3.7,1.28,96,1,Nausea,2,2024-11-10,Eldoret,0,0,1,0,0
+OC-1099,23,1,4.0,0.68,43,3,"Bloating, Irregular periods, Pelvic pain",3,2025-05-10,Kisumu,1,1,0,0,1
