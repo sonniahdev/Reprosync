@@ -1,0 +1,101 @@
+Facility,Region,Category,Service,Base Cost (KES),NHIF Covered,Insurance Copay (KES),Out-of-Pocket (KES)
+Pumwani Maternity Hospital,Pumwani,Consultation,Referral Specialist Visit,1112.87,Yes,394.58,718.29
+Kakamega County Referral Hospital,Kakamega,Consultation,Initial Consultation,6629.94,Yes,2011.71,4618.23
+Machakos Level 5 Hospital,Machakos,Lab Test,Fbc (Full Blood Count),18197.55,Yes,3634.36,14563.19
+Embu Level 5 Hospital,Embu,Lab Test,Pap Smear,8502.47,Yes,3419.87,5082.6
+Mombasa County Hospital,Mombasa,Consultation,Follow-Up Visit,4961.56,Yes,648.93,4312.63
+Pumwani Maternity Hospital,Embu,Lab Test,Urinalysis,6150.15,Yes,1011.63,5138.52
+Embu Level 5 Hospital,Embu,Lab Test,Ca-125 Blood Test,18629.1,Yes,7884.73,10744.37
+Embu Level 5 Hospital,Embu,Consultation,Follow-Up Visit,12851.37,No,0.0,12851.37
+Embu Level 5 Hospital,Embu,Consultation,Referral Specialist Visit,17493.48,No,0.0,17493.48
+Kericho County Referral Hospital,Nakuru,Lab Test,Ca-125 Blood Test,16171.61,No,0.0,16171.61
+Loitoktok Sub-County Hospital,Loitoktok,Surgery,Ovarian Cystectomy,4138.12,No,0.0,4138.12
+Mombasa County Hospital,Mombasa,Surgery,Ovarian Cystectomy,17904.9,No,0.0,17904.9
+Machakos Level 5 Hospital,Machakos,Consultation,Follow-Up Visit,11017.17,Yes,4660.0,6357.17
+Moi Teaching And Referral Hospital,Moi,Consultation,Referral Specialist Visit,17973.78,Yes,4083.67,13890.11
+Mombasa County Hospital,Mombasa,Lab Test,Pap Smear,2646.01,Yes,505.85,2140.16
+Moi Teaching And Referral Hospital,Moi,Surgery,Ovarian Cystectomy,8828.6,Yes,3771.63,5056.97
+Loitoktok Sub-County Hospital,Loitoktok,Consultation,Follow-Up Visit,17284.25,Yes,1776.49,15507.76
+Pumwani Maternity Hospital,Pumwani,Surgery,Ovarian Cystectomy,10459.57,Yes,2792.33,7667.24
+Embu Level 5 Hospital,Embu,Lab Test,Pap Smear,4831.1,No,0.0,4831.1
+Garissa County Referral Hospital,Garissa,Lab Test,Pap Smear,2837.37,Yes,666.91,2170.46
+Kitale County Hospital,Kitale,Surgery,Ovarian Cystectomy,18886.74,Yes,4330.37,14556.37
+Kitale County Hospital,Kitale,Surgery,Ovarian Cystectomy,10616.42,Yes,4047.06,6569.36
+Kitale County Hospital,Kitale,Lab Test,Pap Smear,7590.78,Yes,3709.71,3881.07
+Kakamega County Referral Hospital,Kakamega,Surgery,Ovarian Cystectomy,19267.72,Yes,3867.28,15400.44
+Moi Teaching And Referral Hospital,Moi,Lab Test,Ca-125 Blood Test,10196.35,No,0.0,10196.35
+Moi Teaching And Referral Hospital,Moi,Lab Test,Fbc (Full Blood Count),6367.13,No,0.0,6367.13
+Kakamega County Referral Hospital,Kakamega,Consultation,Follow-Up Visit,6054.39,No,0.0,6054.39
+Machakos Level 5 Hospital,Machakos,Consultation,Initial Consultation,1219.3,Yes,419.23,800.07
+Kitale County Hospital,Kitale,Imaging,Pelvic Ultrasound,10302.24,No,0.0,10302.24
+Mombasa County Hospital,Mombasa,Lab Test,Fbc (Full Blood Count),1503.84,No,0.0,1503.84
+Embu Level 5 Hospital,Embu,Consultation,Initial Consultation,5933.61,Yes,2749.08,3184.53
+Moi Teaching And Referral Hospital,Moi,Imaging,Pelvic Ultrasound,5171.46,Yes,816.87,4354.59
+Loitoktok Sub-County Hospital,Loitoktok,Consultation,Referral Specialist Visit,10044.33,Yes,4964.51,5079.82
+Kakamega County Referral Hospital,Kakamega,Imaging,Pelvic Ultrasound,5220.08,Yes,1925.45,3294.63
+Garissa County Referral Hospital,Garissa,Pharmacy,Pain Management,15351.58,Yes,2994.4,12357.18
+Kericho County Referral Hospital,Kericho,Lab Test,Ca-125 Blood Test,14700.22,Yes,3632.62,11067.6
+Kericho County Referral Hospital,Kericho,Pharmacy,Pain Management,12829.96,No,0.0,12829.96
+Machakos Level 5 Hospital,Machakos,Imaging,Pelvic Ultrasound,12853.83,Yes,4040.09,8813.74
+Embu Level 5 Hospital,Embu,Imaging,Pelvic Ultrasound,2260.65,No,0.0,2260.65
+Garissa County Referral Hospital,Garissa,Imaging,Pelvic Ultrasound,16788.4,No,0.0,16788.4
+Mombasa County Hospital,Mombasa,Lab Test,Ca-125 Blood Test,6755.21,No,0.0,6755.21
+Machakos Level 5 Hospital,Machakos,Consultation,Follow-Up Visit,4137.11,No,0.0,4137.11
+Pumwani Maternity Hospital,Pumwani,Lab Test,Fbc (Full Blood Count),1295.12,Yes,435.62,859.5
+Machakos Level 5 Hospital,Mombasa,Lab Test,Fbc (Full Blood Count),13712.51,No,0.0,13712.51
+Mombasa County Hospital,Mombasa,Lab Test,Ca-125 Blood Test,823.46,Yes,251.02,572.44
+Mombasa County Hospital,Mombasa,Lab Test,Ca-125 Blood Test,4916.67,No,0.0,4916.67
+Kericho County Referral Hospital,Kericho,Surgery,Ovarian Cystectomy,13080.87,Yes,2220.43,10860.44
+Embu Level 5 Hospital,Embu,Pharmacy,Pain Management,13973.29,No,0.0,13973.29
+Pumwani Maternity Hospital,Pumwani,Pharmacy,Pain Management,8041.34,Yes,3817.16,4224.18
+Kakamega County Referral Hospital,Kakamega,Surgery,Ovarian Cystectomy,3181.66,Yes,752.23,2429.43
+Kakamega County Referral Hospital,Kakamega,Surgery,Ovarian Cystectomy,2712.73,Yes,1274.65,1438.08
+Kericho County Referral Hospital,Kericho,Consultation,Referral Specialist Visit,17608.12,No,0.0,17608.12
+Kakamega County Referral Hospital,Kakamega,Pharmacy,Pain Management,5529.86,No,0.0,5529.86
+Machakos Level 5 Hospital,Machakos,Lab Test,Pap Smear,13369.69,Yes,5707.37,7662.32
+Kakamega County Referral Hospital,Kakamega,Consultation,Referral Specialist Visit,11326.42,Yes,3532.26,7794.16
+Kitale County Hospital,Kitale,Consultation,Initial Consultation,5216.12,No,0.0,5216.12
+Machakos Level 5 Hospital,Machakos,Lab Test,Pap Smear,2315.5,Yes,1062.55,1252.95
+Embu Level 5 Hospital,Embu,Lab Test,Urinalysis,18058.15,Yes,6378.87,11679.28
+Moi Teaching And Referral Hospital,Moi,Consultation,Referral Specialist Visit,7111.08,No,0.0,7111.08
+Pumwani Maternity Hospital,Pumwani,Surgery,Ovarian Cystectomy,7309.59,No,0.0,7309.59
+Kitale County Hospital,Kitale,Pharmacy,Pain Management,14656.14,No,0.0,14656.14
+Garissa County Referral Hospital,Garissa,Lab Test,Pap Smear,17993.65,Yes,8184.13,9809.52
+Kericho County Referral Hospital,Kericho,Lab Test,Urinalysis,15707.57,No,0.0,15707.57
+Embu Level 5 Hospital,Embu,Consultation,Referral Specialist Visit,13019.62,No,0.0,13019.62
+Kericho County Referral Hospital,Kericho,Lab Test,Pap Smear,2140.73,Yes,352.47,1788.26
+Kakamega County Referral Hospital,Kakamega,Surgery,Ovarian Cystectomy,18021.81,Yes,6173.76,11848.05
+Mombasa County Hospital,Mombasa,Consultation,Referral Specialist Visit,679.34,No,0.0,679.34
+Kitale County Hospital,Kitale,Lab Test,Fbc (Full Blood Count),2478.7,No,0.0,2478.7
+Moi Teaching And Referral Hospital,Moi,Lab Test,Pap Smear,13438.28,No,0.0,13438.28
+Kericho County Referral Hospital,Kericho,Consultation,Follow-Up Visit,598.7,No,0.0,598.7
+Kitale County Hospital,Kitale,Consultation,Referral Specialist Visit,3635.76,No,0.0,3635.76
+Loitoktok Sub-County Hospital,Loitoktok,Lab Test,Ca-125 Blood Test,11200.31,No,0.0,11200.31
+Kitale County Hospital,Kitale,Lab Test,Ca-125 Blood Test,13991.96,Yes,5048.08,8943.88
+Loitoktok Sub-County Hospital,Loitoktok,Consultation,Initial Consultation,4873.25,Yes,1875.58,2997.67
+Loitoktok Sub-County Hospital,Loitoktok,Consultation,Referral Specialist Visit,5126.36,Yes,1179.88,3946.48
+Loitoktok Sub-County Hospital,Loitoktok,Lab Test,Urinalysis,15056.58,Yes,5418.16,9638.42
+Embu Level 5 Hospital,Embu,Lab Test,Fbc (Full Blood Count),17059.86,No,0.0,17059.86
+Kericho County Referral Hospital,Kericho,Imaging,Pelvic Ultrasound,13323.45,Yes,4361.08,8962.37
+Machakos Level 5 Hospital,Machakos,Lab Test,Urinalysis,2326.66,Yes,574.89,1751.77
+Kericho County Referral Hospital,Kericho,Lab Test,Pap Smear,5671.45,No,0.0,5671.45
+Kericho County Referral Hospital,Kericho,Lab Test,Pap Smear,5257.8,Yes,2572.14,2685.66
+Pumwani Maternity Hospital,Pumwani,Lab Test,Fbc (Full Blood Count),8165.41,Yes,3730.11,4435.3
+Mombasa County Hospital,Mombasa,Lab Test,Pap Smear,12807.2,No,0.0,12807.2
+Mombasa County Hospital,Mombasa,Consultation,Referral Specialist Visit,15998.82,No,0.0,15998.82
+Loitoktok Sub-County Hospital,Loitoktok,Lab Test,Fbc (Full Blood Count),10301.42,Yes,3407.31,6894.11
+Mombasa County Hospital,Mombasa,Lab Test,Fbc (Full Blood Count),10104.1,No,0.0,10104.1
+Kitale County Hospital,Kitale,Surgery,Ovarian Cystectomy,4307.24,No,0.0,4307.24
+Embu Level 5 Hospital,Embu,Surgery,Ovarian Cystectomy,14587.82,No,0.0,14587.82
+Mombasa County Hospital,Mombasa,Surgery,Ovarian Cystectomy,5975.06,Yes,655.62,5319.44
+Kericho County Referral Hospital,Kericho,Pharmacy,Pain Management,13086.71,No,0.0,13086.71
+Kericho County Referral Hospital,Kericho,Consultation,Follow-Up Visit,3953.66,Yes,1882.67,2070.99
+Loitoktok Sub-County Hospital,Loitoktok,Lab Test,Ca-125 Blood Test,19101.61,No,0.0,19101.61
+Pumwani Maternity Hospital,Pumwani,Lab Test,Ca-125 Blood Test,18339.86,Yes,4549.45,13790.41
+Mombasa County Hospital,Mombasa,Lab Test,Urinalysis,801.4,No,0.0,801.4
+Kitale County Hospital,Kitale,Lab Test,Fbc (Full Blood Count),18602.21,No,0.0,18602.21
+Machakos Level 5 Hospital,Machakos,Lab Test,Ca-125 Blood Test,8849.59,No,0.0,8849.59
+Mombasa County Hospital,Mombasa,Consultation,Referral Specialist Visit,19349.77,Yes,9393.31,9956.46
+Kericho County Referral Hospital,Kericho,Lab Test,Urinalysis,17133.68,No,0.0,17133.68
+Embu Level 5 Hospital,Embu,Pharmacy,Pain Management,6241.75,No,0.0,6241.75
+Kitale County Hospital,Kitale,Lab Test,Urinalysis,8009.41,Yes,3527.78,4481.63

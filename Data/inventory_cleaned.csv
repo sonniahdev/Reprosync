@@ -1,0 +1,101 @@
+Facility,Region,Category,Item,Cost (KES),Available Stock
+Pumwani Maternity Hospital,Pumwani,Medications,Ibuprofen 400mg,1935.25,94
+Kakamega County Referral Hospital,Kakamega,Medications,Combined Oral Contraceptives,4758.5,28
+Machakos Level 5 Hospital,Machakos,Medications,Paracetamol 500mg,3686.77,86
+Embu Level 5 Hospital,Embu,Medications,Paracetamol 500mg,3033.43,75
+Mombasa County Hospital,Mombasa,Medications,Ibuprofen 400mg,864.49,3
+Pumwani Maternity Hospital,Embu,Medications,Combined Oral Contraceptives,864.37,29
+Embu Level 5 Hospital,Embu,Lab Consumables,CA-125 Test Kit,384.61,3
+Embu Level 5 Hospital,Embu,Medications,Combined Oral Contraceptives,4344.26,91
+Embu Level 5 Hospital,Embu,Consumables,Syringe 5ml,3045.46,28
+Kericho County Referral Hospital,Nakuru,Lab Consumables,CA-125 Test Kit,3569.56,35
+Loitoktok Sub-County Hospital,Loitoktok,Medications,Doxycycline 100mg,200.86,89
+Mombasa County Hospital,Mombasa,Consumables,Speculum,4852.56,35
+Machakos Level 5 Hospital,Machakos,Medications,Combined Oral Contraceptives,4178.97,97
+Moi Teaching And Referral Hospital,Moi,Medications,Paracetamol 500mg,1140.46,11
+Mombasa County Hospital,Mombasa,Medications,Paracetamol 500mg,990.94,45
+Moi Teaching And Referral Hospital,Moi,Lab Consumables,CA-125 Test Kit,998.68,33
+Loitoktok Sub-County Hospital,Loitoktok,Consumables,Latex Gloves (pair),1590.79,68
+Pumwani Maternity Hospital,Pumwani,Consumables,Syringe 5ml,2671.31,10
+Embu Level 5 Hospital,Embu,Consumables,Pelvic Ultrasound Gel,2216.53,80
+Garissa County Referral Hospital,Garissa,Consumables,Speculum,1527.02,73
+Kitale County Hospital,Kitale,Medications,Paracetamol 500mg,3098.08,5
+Kitale County Hospital,Kitale,Consumables,Pelvic Ultrasound Gel,783.52,10
+Kitale County Hospital,Kitale,Medications,Paracetamol 500mg,1531.51,48
+Kakamega County Referral Hospital,Kakamega,Consumables,Latex Gloves (pair),1895.17,81
+Moi Teaching And Referral Hospital,Moi,Medications,Doxycycline 100mg,2334.74,47
+Moi Teaching And Referral Hospital,Moi,Medications,Combined Oral Contraceptives,3947.36,85
+Kakamega County Referral Hospital,Kakamega,Medications,Paracetamol 500mg,1078.4,77
+Machakos Level 5 Hospital,Machakos,Lab Consumables,Pregnancy Test Kit,2619.75,93
+Kitale County Hospital,Kitale,Medications,Doxycycline 100mg,3002.83,59
+Mombasa County Hospital,Mombasa,Consumables,Pelvic Ultrasound Gel,327.61,81
+Embu Level 5 Hospital,Embu,Medications,Combined Oral Contraceptives,3076.97,87
+Moi Teaching And Referral Hospital,Moi,Medications,Ibuprofen 400mg,935.57,29
+Loitoktok Sub-County Hospital,Loitoktok,Consumables,Speculum,418.75,51
+Kakamega County Referral Hospital,Kakamega,Medications,Paracetamol 500mg,4749.54,27
+Garissa County Referral Hospital,Garissa,Consumables,Speculum,4831.6,27
+Kericho County Referral Hospital,Kericho,Consumables,Syringe 5ml,4061.15,82
+Kericho County Referral Hospital,Kericho,Medications,Doxycycline 100mg,1592.61,33
+Machakos Level 5 Hospital,Machakos,Medications,Combined Oral Contraceptives,578.59,95
+Embu Level 5 Hospital,Embu,Lab Consumables,Pregnancy Test Kit,3452.74,33
+Garissa County Referral Hospital,Garissa,Consumables,Syringe 5ml,2256.75,74
+Mombasa County Hospital,Mombasa,Consumables,Speculum,697.99,28
+Machakos Level 5 Hospital,Machakos,Lab Consumables,Pregnancy Test Kit,2526.37,63
+Pumwani Maternity Hospital,Pumwani,Medications,Ibuprofen 400mg,268.5,14
+Machakos Level 5 Hospital,Mombasa,Medications,Doxycycline 100mg,4555.67,87
+Mombasa County Hospital,Mombasa,Lab Consumables,CA-125 Test Kit,1368.02,8
+Mombasa County Hospital,Mombasa,Consumables,Syringe 5ml,3346.36,76
+Kericho County Referral Hospital,Kericho,Lab Consumables,Pregnancy Test Kit,1627.38,32
+Embu Level 5 Hospital,Embu,Medications,Ibuprofen 400mg,2648.33,87
+Pumwani Maternity Hospital,Pumwani,Lab Consumables,Pregnancy Test Kit,2778.88,96
+Kakamega County Referral Hospital,Kakamega,Consumables,Speculum,1005.79,14
+Kakamega County Referral Hospital,Kakamega,Consumables,Syringe 5ml,4850.96,20
+Kericho County Referral Hospital,Kericho,Medications,Ibuprofen 400mg,3898.15,92
+Kakamega County Referral Hospital,Kakamega,Lab Consumables,Pregnancy Test Kit,4703.54,97
+Machakos Level 5 Hospital,Machakos,Lab Consumables,Pregnancy Test Kit,4484.65,13
+Kakamega County Referral Hospital,Kakamega,Lab Consumables,Pregnancy Test Kit,3029.71,77
+Kitale County Hospital,Kitale,Medications,Doxycycline 100mg,4617.18,47
+Machakos Level 5 Hospital,Machakos,Lab Consumables,Pregnancy Test Kit,533.61,99
+Embu Level 5 Hospital,Embu,Medications,Ibuprofen 400mg,1060.32,76
+Moi Teaching And Referral Hospital,Moi,Consumables,Latex Gloves (pair),321.61,2
+Pumwani Maternity Hospital,Pumwani,Consumables,Speculum,1694.12,39
+Kitale County Hospital,Kitale,Medications,Ibuprofen 400mg,2004.52,30
+Garissa County Referral Hospital,Garissa,Medications,Paracetamol 500mg,1429.61,10
+Kericho County Referral Hospital,Kericho,Medications,Paracetamol 500mg,4160.81,97
+Embu Level 5 Hospital,Embu,Medications,Doxycycline 100mg,1848.09,16
+Kericho County Referral Hospital,Kericho,Lab Consumables,Pregnancy Test Kit,1476.58,21
+Kakamega County Referral Hospital,Kakamega,Lab Consumables,Pregnancy Test Kit,2759.21,77
+Mombasa County Hospital,Mombasa,Medications,Combined Oral Contraceptives,790.53,69
+Kitale County Hospital,Kitale,Consumables,Pelvic Ultrasound Gel,4030.77,51
+Moi Teaching And Referral Hospital,Moi,Consumables,Latex Gloves (pair),465.3,66
+Kericho County Referral Hospital,Kericho,Medications,Paracetamol 500mg,4935.75,31
+Kitale County Hospital,Kitale,Medications,Paracetamol 500mg,3884.0,43
+Loitoktok Sub-County Hospital,Loitoktok,Lab Consumables,CA-125 Test Kit,1073.71,70
+Kitale County Hospital,Kitale,Lab Consumables,CA-125 Test Kit,127.06,28
+Loitoktok Sub-County Hospital,Loitoktok,Medications,Paracetamol 500mg,4095.76,90
+Loitoktok Sub-County Hospital,Loitoktok,Medications,Combined Oral Contraceptives,3563.6,8
+Loitoktok Sub-County Hospital,Loitoktok,Consumables,Speculum,3672.14,9
+Embu Level 5 Hospital,Embu,Medications,Combined Oral Contraceptives,3879.22,35
+Kericho County Referral Hospital,Kericho,Medications,Combined Oral Contraceptives,462.82,69
+Machakos Level 5 Hospital,Machakos,Lab Consumables,CA-125 Test Kit,1856.48,73
+Kericho County Referral Hospital,Kericho,Medications,Combined Oral Contraceptives,667.76,100
+Kericho County Referral Hospital,Kericho,Consumables,Syringe 5ml,4329.21,24
+Pumwani Maternity Hospital,Pumwani,Medications,Paracetamol 500mg,3154.16,84
+Mombasa County Hospital,Mombasa,Consumables,Speculum,1721.4,54
+Mombasa County Hospital,Mombasa,Consumables,Latex Gloves (pair),411.44,93
+Loitoktok Sub-County Hospital,Loitoktok,Medications,Paracetamol 500mg,1623.81,7
+Mombasa County Hospital,Mombasa,Consumables,Speculum,1693.4,13
+Kitale County Hospital,Kitale,Medications,Combined Oral Contraceptives,3675.07,24
+Embu Level 5 Hospital,Embu,Consumables,Latex Gloves (pair),3224.03,17
+Mombasa County Hospital,Mombasa,Medications,Doxycycline 100mg,4447.34,35
+Kericho County Referral Hospital,Kericho,Medications,Combined Oral Contraceptives,2413.85,9
+Kericho County Referral Hospital,Kericho,Lab Consumables,Pregnancy Test Kit,686.01,12
+Loitoktok Sub-County Hospital,Loitoktok,Lab Consumables,Pregnancy Test Kit,3594.9,1
+Pumwani Maternity Hospital,Pumwani,Medications,Combined Oral Contraceptives,3827.85,21
+Mombasa County Hospital,Mombasa,Consumables,Latex Gloves (pair),2850.26,61
+Kitale County Hospital,Kitale,Consumables,Syringe 5ml,3877.74,7
+Machakos Level 5 Hospital,Machakos,Consumables,Syringe 5ml,2519.6,0
+Mombasa County Hospital,Mombasa,Consumables,Pelvic Ultrasound Gel,2661.39,100
+Kericho County Referral Hospital,Kericho,Consumables,Pelvic Ultrasound Gel,2194.95,54
+Embu Level 5 Hospital,Embu,Consumables,Latex Gloves (pair),224.55,19
+Kitale County Hospital,Kitale,Consumables,Pelvic Ultrasound Gel,628.67,27
